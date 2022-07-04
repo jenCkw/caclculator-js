@@ -32,3 +32,15 @@
     cursor: pointer;
 
 }
+
+#equal {
+    background-color: rgba(204, 58, 5, 0.918);
+    color: white;
+}
+
+.button:hover {
+    background-color: grey ;
+    color: white;
+    transition: 0.5s ease-in-out;
+}
+
