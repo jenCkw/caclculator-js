@@ -18,3 +18,17 @@
     border-left: 1px solid #999;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.buttons > div {
+    border-radius: 1px solid #999;
+    border-right: 1px solid #999;
+}
+
+.button {
+    border:0.5px solid #999;
+    line-height: 100px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+
+}
